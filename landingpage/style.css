@@ -9,5 +9,6 @@
 
 /* sections */
 @import url("css/sections/hero.css");
-@import url("css/sections/get-started.css")
+@import url("css/sections/get-started.css");
+@import url("css/sections/features.css");
 /* end sections */
