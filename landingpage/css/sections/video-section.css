@@ -36,4 +36,14 @@
     color: var(--color-white);
 }
 
+.video-section-content h2 {
+    margin-bottom: 20px;
+}
+
+.video-section-content p {
+    margin-bottom: 20px;
+}
+
+
+
 

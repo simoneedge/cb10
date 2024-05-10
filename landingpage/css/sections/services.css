@@ -34,6 +34,10 @@
     height: auto;
 }
 
+.services-item-content {
+    padding: 20px;
+}
+
 .services-item-content h2 {
     margin-bottom: 20px;
 }
