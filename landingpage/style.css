@@ -8,5 +8,6 @@
 @import url("css/components/buttons.css");
 
 /* sections */
-@import url("css/sections/hero.css")
+@import url("css/sections/hero.css");
+@import url("css/sections/get-started.css")
 /* end sections */
